@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/programmers/조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기 .sql" dialect="GenericSQL" />
+  </component>
+</project>
